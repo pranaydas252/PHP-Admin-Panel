@@ -5,5 +5,15 @@ This is an PHP-based admin panel with clean and elegant design. MVC File Structu
 
 **DEFAULT LOGIN CREDENTIALS**      
 Username: **admin@google.com**      
-Password: **Pt123456789**
+Password: **Pt123456789**         
+
+
+
+
+
+
+
+**Dashboard UI**     
+
+![dashboard_ui](https://user-images.githubusercontent.com/43801497/64510112-f2e30080-d2fe-11e9-8c79-d4e8eee540dd.jpg)
 
